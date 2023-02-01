@@ -1,6 +1,6 @@
 # NightLifeDrive
 ## Intro
-Worüber ist das Spiel
+Steige in diesen entspannten Endlessrunner für ein gemütliches Autorennen auf Neon beleuchteten Straßen. Lass dich von Synthwave Musik an einen anderen Ort bringen, während du durch eine Stadt unter einer goldenen Sonne fährst.
 ### Genre & Art Style
 Synthwave Endless Runner Car Racer
 ## How to install 
