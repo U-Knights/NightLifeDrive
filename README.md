@@ -109,6 +109,10 @@ Schriftart von <a href="https://assetstore.unity.com/publishers/65613">Fontier</
 ### Tutorials
 [Music controls](https://forum.unity.com/threads/changing-an-audio-sources-audio-clip.40176/) 
 
+Car Controller <a href="https://www.youtube.com/watch?v=jr4eb4F9PSQ">Simple Car Controller in Unity 3D (Part 1- Movement) | Easy Unity Tutorial 2022</a>
+
+Camera Controller <a href="https://www.youtube.com/watch?v=s75yzUepp00">Simple Car Controller in Unity 3D (Part 2- Camera Follow) | Easy Unity Tutorial 2022</a>
+
 ## Team
 Eve Schütze, Linh Phuong Chu, Lukas Lüdecke, Nermin Rustic
 ## Build with
