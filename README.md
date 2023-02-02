@@ -49,6 +49,7 @@ Das Optionsmenu hat folgende Inhalte:
 Fahre entspannt über eine prozedual Generierte Rennstrecke, während du zu Synthwavemusik viben kannst.
 ### Failing
 Das Spiel ist vorbei, wenn alle Herzen verbraucht sind oder man über das Menü zurück ins Hauptmenü geht oder neustartet.
+
 ![Game Over](https://user-images.githubusercontent.com/59909994/216428631-6a11a0e7-5af4-49f9-b153-550ec38fee25.gif)
 ### Score
 Während man fährt steigt langsam ein Score, wie weit man gefahren ist. 
