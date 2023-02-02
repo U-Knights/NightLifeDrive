@@ -11,20 +11,22 @@ Synthwave Endless Runner Car Racer
 ### Steuerung des Spiels
 - WASD werden für die Bewegung genutzt. W und S beschleunigen das Auto jeweils nach vorne und hinten, A und D steuern es nach links und rechts.
 - Leertaste kann zum Bremsen gedrückt werden.
-![Auto Bewegung auf der Straße](https://user-images.githubusercontent.com/59909994/216427216-25272ef7-382f-4cc5-892d-908aa9f95a11.gif)
-![Auto Bewegung in der Kurve](https://user-images.githubusercontent.com/59909994/216427245-135b86e6-5872-4177-977b-ce755213ac8e.gif)
+
+![Auto Bewegung auf der Straße](https://user-images.githubusercontent.com/59909994/216427216-25272ef7-382f-4cc5-892d-908aa9f95a11.gif) ![Auto Bewegung in der Kurve](https://user-images.githubusercontent.com/59909994/216427245-135b86e6-5872-4177-977b-ce755213ac8e.gif)
 
 - Mit ESC ruft man im Spiel das Pausenmenu auf.
 - Menüs werden per Maus navigiert.
-![Optionsmenü](https://user-images.githubusercontent.com/59909994/216428297-b053d7ed-756a-44bd-8a73-c6121fdf06cb.gif)
+
 
 ### Leben
 - Während der Fahrt kann das Auto durch Hindernisse beschädigt werden. Man sollte nicht gegen die Hütchen auf der Straße fahren, denn dann verliert man Leben.
+
 ![Leben verlieren](https://user-images.githubusercontent.com/59909994/216428067-bb497586-ad62-4b7d-8d53-0c9675b612f1.gif)
 
 ## Spiel
 ### Startmenu
 Man kann das Spiel starten, ein Optionsmenü öffnen und das Spiel beenden.
+
 ![Hauptmenü](https://user-images.githubusercontent.com/59909994/216428437-2da239d1-dff0-415b-860f-cc515a4d91c5.gif)
 
 ### Pausenmenu
@@ -33,7 +35,9 @@ Das Pausenmenu hat folgende Optionen:
 - RESTART - Startet das aktuelle Level neu.
 - OPTIONS - Öffnet das Pausenmenü während des Spiels.
 - MENU - Kehrt zum Startbildschirm zurück.
-![PauseMenu Gif](/images/PauseMenu.gif)
+
+![Optionsmenü](https://user-images.githubusercontent.com/59909994/216428297-b053d7ed-756a-44bd-8a73-c6121fdf06cb.gif)
+
 ### Optionsmenu
 Das Optionsmenu hat folgende Inhalte:
 - Controls - Eine Übersicht über die Steuerung
