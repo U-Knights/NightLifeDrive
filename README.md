@@ -46,13 +46,13 @@ Das Spiel ist vorbei, wenn alle Herzen verbraucht sind oder man über das Menü 
 Während man fährt steigt langsam ein Score, wie weit man gefahren ist. 
 ## Quellen
 
-### Street 
+### Straßen
 "Simple Street Props" - 
-Assets by <a href="https://assetstore.unity.com/packages/3d/props/simple-street-props-194706#publisher">AiKodex</a> from <a href="https://assetstore.unity.com/packages/3d/props/simple-street-props-194706#description">Unity Asset Store</a>
+Assets von <a href="https://assetstore.unity.com/packages/3d/props/simple-street-props-194706#publisher">AiKodex</a> aus dem <a href="https://assetstore.unity.com/packages/3d/props/simple-street-props-194706#description">Unity Asset Store</a>
 
-### Soundeffect
+### Soundeffekt
 "FREE Casual Game SFX Pack" Soundtrack 17&48-
-Assets by <a href="https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116#publisher">Dustyroom</a> from <a href="https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116#description">Unity Asset Store</a>
+Assets von <a href="https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116#publisher">Dustyroom</a> aus dem <a href="https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116#description">Unity Asset Store</a>
 
 ### Musik
 "Out Run" - 
@@ -94,9 +94,9 @@ Music by <a href="https://pixabay.com/users/evgenybardyuzha-25235210/?utm_source
 "Lifelike" - 
 Music by <a href="https://pixabay.com/users/alexiaction-26977400/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=126735">Alexi Action</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=126735">Pixabay</a>
 
-### Font
+### Schriftart
 "Fatality FPS Gaming Font" - 
-Font by <a href="https://assetstore.unity.com/publishers/65613">Fontier</a> from <a href="https://assetstore.unity.com/packages/2d/fonts/fatality-fps-gaming-font-216954#description">Unity Asset Store</a>
+Schriftart von <a href="https://assetstore.unity.com/publishers/65613">Fontier</a> aus dem <a href="https://assetstore.unity.com/packages/2d/fonts/fatality-fps-gaming-font-216954#description">Unity Asset Store</a>
 
 ### Tutorials
 [Music controls](https://forum.unity.com/threads/changing-an-audio-sources-audio-clip.40176/) 
