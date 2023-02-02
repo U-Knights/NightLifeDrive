@@ -57,6 +57,11 @@ Assets von <a href="https://assetstore.unity.com/packages/3d/props/simple-street
 "FREE Casual Game SFX Pack" Soundtrack 17&48-
 Assets von <a href="https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116#publisher">Dustyroom</a> aus dem <a href="https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116#description">Unity Asset Store</a>
 
+### Car Model
+DeLorean 3D-Modell
+<a href="https://free3d.com/3d-model/delorean-67719.html">free3d.com by edson</a>
+
+
 ### Musik
 "Out Run" - 
 Music by <a href="https://pixabay.com/users/10270511-10270511/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=125180">MARCO DARIO</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=125180">Pixabay</a>
@@ -103,6 +108,10 @@ Schriftart von <a href="https://assetstore.unity.com/publishers/65613">Fontier</
 
 ### Tutorials
 [Music controls](https://forum.unity.com/threads/changing-an-audio-sources-audio-clip.40176/) 
+
+Car Controller <a href="https://www.youtube.com/watch?v=jr4eb4F9PSQ">Simple Car Controller in Unity 3D (Part 1- Movement) | Easy Unity Tutorial 2022</a>
+
+Camera Controller <a href="https://www.youtube.com/watch?v=s75yzUepp00">Simple Car Controller in Unity 3D (Part 2- Camera Follow) | Easy Unity Tutorial 2022</a>
 
 ## Team
 Eve Schütze, Linh Phuong Chu, Lukas Lüdecke, Nermin Rustic
